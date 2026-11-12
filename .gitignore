@@ -1,0 +1,7 @@
+config/
+data/
+Specific/
+*.db
+*.sqlite
+*.sqlite3
+.env
